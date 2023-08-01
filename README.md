@@ -10,7 +10,5 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Stats
 
-<div width="100%">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimcuccu258&show_icons=true&locale=en&layout=compact" alt="chimcuccu258" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chimcuccu258&" alt="chimcuccu258" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chimcuccu258&show_icons=true&locale=en&layout=compact" alt="chimcuccu258" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chimcuccu258&" alt="chimcuccu258" />
