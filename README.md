@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm chimcuccu258</h1>
+<hr/>
+<h4 align="center">:school: I am attending Nha Trang University, majoring in Information Technology.</h4>
+<hr/>
 
-<!--
-**chimcuccu258/chimcuccu258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="80%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Stats
+
+<div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimcuccu258&show_icons=true&locale=en&layout=compact" alt="chimcuccu258" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chimcuccu258&" alt="chimcuccu258" />
+</div>
