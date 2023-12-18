@@ -26,4 +26,4 @@
 ### [**Ticket Selling Website**](https://github.com/chimcuccu258/php)
 - Technologies Used: HTML, CSS, PHP, SQL.
 
-### [**My CV**](https://drive.google.com/file/d/1heSiA_EIoWb293kkDRkZIO9oh2_6ccD7/view?usp=sharing)
+### [**My CV**](https://drive.google.com/file/d/1DTSTggwVIksi8Rf4IjglIFhRN3TcSHQ-/view?usp=drive_link)
