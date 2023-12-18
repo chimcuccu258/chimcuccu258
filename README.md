@@ -14,16 +14,16 @@
 
 ## My projects
 
-# [**The Coffee House Mobile App**](https://github.com/chimcuccu258/JavaMobile/blob/main/Final/OrderCoffee)
+### [**The Coffee House Mobile App**](https://github.com/chimcuccu258/JavaMobile/blob/main/Final/OrderCoffee)
 - Technologies Used: React Native, Firebase Authentication/FireStore/FireStorage
 
-# [**Cong Coffee Mobile App**](https://github.com/chimcuccu258/CongMobileApp)
+### [**Cong Coffee Mobile App**](https://github.com/chimcuccu258/CongMobileApp)
 - Technologies Used: React Native, Firebase Authentication, Firestore
 
-# [**Backend Java - Library Management System**](https://github.com/chimcuccu258/lms)
+### [**Backend Java - Library Management System**](https://github.com/chimcuccu258/lms)
 - Technologies Used: Java Spring Boot, Hibernate, SQL.
 
-# [**Ticket Selling Website**](https://github.com/chimcuccu258/php)
+### [**Ticket Selling Website**](https://github.com/chimcuccu258/php)
 - Technologies Used: HTML, CSS, PHP, SQL.
 
-# [**My CV**](https://drive.google.com/file/d/1heSiA_EIoWb293kkDRkZIO9oh2_6ccD7/view?usp=sharing)
+### [**My CV**](https://drive.google.com/file/d/1heSiA_EIoWb293kkDRkZIO9oh2_6ccD7/view?usp=sharing)
