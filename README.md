@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chimcuccu258&show_icons=true&locale=en&layout=compact&langs_count=8" alt="chimcuccu258" />
 
-## My projects
+## My projects 💻 
 
 ### [**The Coffee House Mobile App**](https://github.com/chimcuccu258/JavaMobile/blob/main/Final/OrderCoffee)
 - Technologies Used: React Native, Firebase Authentication/FireStore/FireStorage
