@@ -30,3 +30,11 @@
 - Technologies Used: HTML, CSS, PHP, SQL.
 
 ### [**My CV**](https://drive.google.com/file/d/1DTSTggwVIksi8Rf4IjglIFhRN3TcSHQ-/view?usp=drive_link)
+
+### Connect with me ☕ :
+
+<br>
+<a href="https://www.facebook.com/minhngane/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/minhngavu25/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:vuminhnga25@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<br>
