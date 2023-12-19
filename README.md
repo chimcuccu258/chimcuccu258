@@ -2,7 +2,7 @@
 <hr/>
 <!-- <h4 align="center">:school: I am attending Nha Trang University, majoring in Information Technology.</h4> -->
 <h4 align="center">
-    :school: I am attending <a href="https://khoacntt.ntu.edu.vn/">Nha Trang University</a>, majoring in Information Technology.
+    :school: I am attending <a href="https://www.ntu.edu.vn/">Nha Trang University</a>, majoring in <a href="https://khoacntt.ntu.edu.vn/">Information Technology</a>.
 </h4>
 <hr/>
 
