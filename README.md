@@ -23,12 +23,6 @@
 ### [**Cong Coffee Mobile App**](https://github.com/chimcuccu258/CongMobileApp)
 - Technologies Used: React Native, Firebase Authentication, Firestore
 
-### [**Backend Java - Library Management System**](https://github.com/chimcuccu258/lms)
-- Technologies Used: Java Spring Boot, Hibernate, SQL.
-
-### [**Ticket Selling Website**](https://github.com/chimcuccu258/php)
-- Technologies Used: HTML, CSS, PHP, SQL.
-
 ### [**My CV**](https://drive.google.com/file/d/1DTSTggwVIksi8Rf4IjglIFhRN3TcSHQ-/view?usp=drive_link)
 
 ## Connect with me ☕ 
